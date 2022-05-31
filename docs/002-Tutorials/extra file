@@ -1,0 +1,15 @@
+            // create collapsible or a "see more information"
+                        ○ To retrieve the lat, long //taken from google
+                        Get the coordinates of a place
+                            1. On your computer, open Google Maps. 
+                            2. Right-click the place or area on the map.
+                                ○ This will open a pop-up window. You can find your latitude and longitude in decimal format at the top.
+                            3. To copy the coordinates automatically, left click on the latitude and longitude.
+                        Format your coordinates
+                        To format your coordinates so they work in Google Maps, use decimal degrees in the following format:
+                            • Correct: 41.40338, 2.17403
+                            • Incorrect: 41,40338, 2,17403
+                        Tips:
+                            • List your latitude coordinates before longitude coordinates.
+                            • Check that the first number in your latitude coordinate is between -90 and 90.
+            Check that the first number in your longitude coordinate is between -180 and 180.
