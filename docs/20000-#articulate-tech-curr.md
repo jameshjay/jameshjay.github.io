@@ -14,6 +14,7 @@ author: James H. Jay
 ```
 📌 Hello there! Gifs attached below.
 ```
+
 <h2><center> Technical Curriculum Development </center></h2>
 <center> Learning Design & Information Architecture </center>
 <h2><center> _____ </center></h2>
@@ -26,6 +27,10 @@ author: James H. Jay
 </div>
 
 ---
+
+<h2><center> Types of Learning Content </center></h2>
+<center> How-to • Explainer • Interactive Modules • Assessments • LMS </center>
+<h2><center> _____ </center></h2>
 
 <div class="straight_edge">
   <img border="0" alt="img" src="/assets/images/learning/LD9.png" width="100%">
