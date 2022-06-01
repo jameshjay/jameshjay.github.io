@@ -60,25 +60,25 @@ author: James H. Jay
 <div class="videos-grid">
   <div class="videos-grid-video">
     <h5 id="videos-grid">
-      1. Preparing mifold for use
+      <p style="color:white">• Introduction to Git & Github  </p>
     </h5>
     <div style="padding:57.14% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/510976218?h=f328019afe&autoplay=1&loop=1&autopause=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Github Rise 360"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   </div>
     <div class="videos-grid-video">
     <h5 id="videos-grid">
-      2. Securing the child in the mifold seat
+      <p style="color:white">• Version Control: Walk-through</p>
     </h5>
     <div style="padding:57.14% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/511033940?h=5cf92e5721&autoplay=1&loop=1&autopause=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="QuickGit"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   </div>
     <div class="videos-grid-video">
     <h5 id="videos-grid">
-      3. Who can use mifold
+       <p style="color:white">• Information Security </p>
     </h5>
     <div style="padding:57.14% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/506710689?h=d1f7b843eb&autoplay=1&loop=1&autopause=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Digital-Guide-Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
   </div>
     <div class="videos-grid-video">
     <h5 id="videos-grid">
-      4. Where is the best place to use mifold
+      <p style="color:white">• Mobile Development  </p>
     </h5>
     <div style="padding:57.14% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/506712939?h=d2dc0391c2&autoplay=1&loop=1&autopause=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ios-video"></iframe>
     </div><script src="https://player.vimeo.com/api/player.js"></script>
