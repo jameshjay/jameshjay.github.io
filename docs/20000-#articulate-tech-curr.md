@@ -12,21 +12,14 @@ author: James H. Jay
 ---
 
 ```
-📌 Hello there! Here's a snapshot from my previous site.
+📌 Hello there! Gifs attached below.
 ```
-
-<h2><center> Interactive Learning Modules </center></h2>
-<center> Articulate Storyline </center><br>
-<!-- 🟧 TYPES OF CONTENT
--->
-
-<div class="straight_edge">
-  <img border="0" alt="img" src="/assets/images/learning/LD5.png" width="100%">
-</div>
+<h2><center> Technical Curriculum Development </center></h2>
+<center> Learning Design & Information Architecture </center>
+<h2><center> _____ </center></h2>
 
 <h3 id="technical-design"></h3>
 
-<h2><center> _____ </center></h2><br>
 
 <div class="straight_edge">
   <img border="0" alt="img" src="/assets/images/course/courseA.png" width="100%">
@@ -39,6 +32,15 @@ author: James H. Jay
 </div>
 
 <h3 id="articulate"></h3>
+
+---
+
+<h2><center> Interactive Learning Modules </center></h2>
+<center> Articulate Storyline </center><br>
+
+<div class="straight_edge">
+  <img border="0" alt="img" src="/assets/images/learning/LD5.png" width="100%">
+</div>
 
 ---
 
