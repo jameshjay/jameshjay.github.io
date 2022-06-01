@@ -250,3 +250,18 @@ body {
   font: 16px 'Open Sans', sans-serif;
 }
 
+
+
+// 🟢 ---- video grid view
+.videos-grid {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  grid-column-gap: 30px;
+}
+
+.videos-grid-video {
+}
+
+.videos-grid-video > iframe {
+  height:278px;
+}

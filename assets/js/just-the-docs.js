@@ -470,3 +470,15 @@ jtd.onReady(function(){
 
 {% include js/custom.js %}
 
+
+
+window.document.onkeydown = function(e) {
+  if (!e) {
+    e = event;
+  }
+  if (e.keyCode == 27) {
+    lightbox_close();
+  }
+}
+
+
