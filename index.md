@@ -14,7 +14,7 @@ nav_order: 0
 
 -->
 
-<center><img src="/assets/images/banner/big_banner.png" alt="banner image" style="width:90%;height:60%;"></center><br>
+<center><img src="/assets/images/banner/big_banner1.png" alt="banner image" style="width:90%;height:60%;"></center><br>
 
 
 
