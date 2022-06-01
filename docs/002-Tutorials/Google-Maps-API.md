@@ -27,7 +27,7 @@ The Google Maps Static API retrieves an image (in GIF, PNG, or JPEG format) via 
 ### Quick Peek
 {: .no_toc }
 
-The following URL will return an image that can be directly embedded to your website that accepts an <img> tag. No javascript required.
+The following URL will return an image that can be directly embedded to your website that accepts an `<img>` tag. No javascript required.
 
 ```
 https://maps.googleapis.com/maps/api/staticmap?center=San%20Francisco,CA&zoom=12&size=600x600&key=YOUR_API_KEY
