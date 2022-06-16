@@ -46,7 +46,7 @@ Try this formula instead! (It will add: # days remaining & # of days overdue): <
             <img border="0" alt="img" src="/assets/images/cards/box6.png" width="230" height="450">
         </a>
     </div>
-    <div class="v">
+    <div class="column_grid">
         <a href="/favorite-features">
             <img border="0" alt="img" src="/assets/images/cards/box7.png" width="230" height="450">
         </a>
