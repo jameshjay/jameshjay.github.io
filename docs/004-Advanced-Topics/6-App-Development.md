@@ -15,7 +15,7 @@ author: James H. Jay
 📌 Page is currently being migrated from a different site.
 ```
 
-<details open>
+<details close>
 <summary><big><code>VIEW: Details</code></big></summary>
 <small>• RESTful API integration <br>
 • Social integration (Facebook, Google etc.)<br>
