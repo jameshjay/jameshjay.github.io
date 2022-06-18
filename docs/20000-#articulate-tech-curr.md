@@ -52,7 +52,7 @@ author: James H. Jay
 ---
 
 <h2><center> Sample Videos </center></h2>
-<center><small> Storyline files have been removed from my hosting provider because it was taking waaay too long to republish each time I made an update. I've instead created gifs of the interactions (*sped up 1.25x to save time) </small></center><br>
+<center><small> Storyline files have been removed from hosting provider because it was taking waaay too long to republish each time I made an update. I've instead created gifs of the interactions (*sped up 1.25x to save time) </small></center><br>
 
 
 <!-- 🟢 GRID VIDEO -->
