@@ -5,7 +5,7 @@ nav_order: 0
 ---
 
 ```
-📌 Domain www.MakeCodeStick.com is currently undergoing changes. 
+📌 Domain www.MakeCodeStick.com will be redirected to Podia LMS.
 ```
 
 <!---
